@@ -1,3 +1,3 @@
 # feb2025
 CI-CD demo execution
-by hemanth
+by hemanth in aws terminal
